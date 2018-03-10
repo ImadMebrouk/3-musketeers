@@ -1,6 +1,6 @@
 # cash converter
 
-## installation
+## Installation
 
 First run the "npm install" line command in the local directory.
 Then run "npm install -g jsdoc" in the same folder if you want to generate html documentation.
